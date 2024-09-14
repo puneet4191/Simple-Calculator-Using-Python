@@ -7,10 +7,10 @@ The calculator performs 5 following operations:
 * Division
 * Average
 
-=> The calculator is coded into 3 following steps:
-    1. Creating Functions of every operation.
-    2. User Input values by input() function.
-    3. Print result using if-elif-else nested command.
+The calculator is coded into 3 following steps: \n
+    1. Creating Functions of every operation. \n
+    2. User Input values by input() function. \n
+    3. Print result using if-elif-else nested command. \n
 
 # Tool 
 * Language- Python
