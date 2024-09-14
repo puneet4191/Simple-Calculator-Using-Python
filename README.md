@@ -5,12 +5,12 @@ The calculator performs 5 following operations:
 * Subtraction
 * Multiplication
 * Division
-* Average
++ Average
 
 The calculator is coded into 3 following steps:<br/>
-&nbsp1. Creating Functions of every operation.<br/>
-&nbsp2. User Input values by input() function.<br/>
-&nbsp3. Print result using if-elif-else nested command.<br/>
+1. Creating Functions of every operation.<br/>
+2. User Input values by input() function.<br/>
+3. Print result using if-elif-else nested command.<br/>
 
 # Tool 
 * Language- Python
